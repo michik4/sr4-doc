@@ -1,0 +1,33 @@
+site_name: СтройРепутация 4.0
+theme:
+  name: material
+  font:
+    text: OpenSans
+  language: "ru"
+  palette:
+    primary: indigo
+nav:
+  - Навигация: index.md
+  - О проекте: about.md
+  - Карта сайта:
+    - Публичные страницы: 
+      - Главная: pages/public/general.md
+      - Инфо Заказчикам: pages/public/customer-info.md
+      - Инфо Поставщикам: pages/public/provider-info.md
+      - Правовая инфо-я: pages/public/legal-info.md
+      - Q/A: pages/public/qa.md
+      - Регистрация/вход: pages/public/auth.md
+    - Приватные страницы:
+      - Для Заказчика:
+        - ЛК: pages/private/customer/pers-cab.md
+        - Профиль: pages/private/customer/profile.md
+        - Поиск Поставщиков: pages/private/customer/provider-search.md
+      - Для Поставщика:
+        - ЛК: pages/private/provider/pers-cab.md
+        - Профиль: pages/private/provider/profile.md
+markdown_extensions:
+  - toc:
+      permalink: "#"
+      separator: "-"
+
+      
