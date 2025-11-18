@@ -1,20 +1,20 @@
 # Карта сайта [stroyreputation.ru](https://stroyreputation.ru/)
 
 - Публичные страницы
-    - [Главная](pages/public/general.md)
-    - [Информация для Заказчиков](pages/public/customer-info.md)
-    - Информация для Поставщиков
-    - Правовая информация
-    - Q/A
-    - Страница аутентификации
+    - [Главная](../pages/public/general)
+    - [Информация для Заказчиков](../pages/public/customer-info)
+    - [Информация для Поставщиков](../pages/public/provider-info)
+    - [Правовая информация](../pages/public/legal-info)
+    - [Q/A](../pages/public/qa)
+    - [Страница аутентификации](../pages/public/auth)
 - Приватные страницы
 	- Для Заказчика
-		- Личный кабинет
-		- Профиль
-		- Поиск Поставщиков
+		- [Личный кабинет](../pages/private/customer/pers-cab)
+		- [Профиль](../pages/private/customer/profile)
+		- [Поиск Поставщиков](../pages/private/customer/provider-search)
 	- Для Поставщика
-		- Личный кабинет
-		- Профиль
+		- [Личный кабинет](../pages/private/provider/pers-cab)
+		- [Профиль](../pages/private/provider/profile)
 		- Поиск Заказчиков \(в разработке)
 	- Общие страницы
 		- Биржа
