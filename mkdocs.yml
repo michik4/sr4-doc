@@ -25,6 +25,13 @@ nav:
       - Для Поставщика:
         - ЛК: pages/private/provider/pers-cab.md
         - Профиль: pages/private/provider/profile.md
+  - Сущности:
+    - Пользователи (роли):
+      - Поставщик: entities/users/provider.md
+      - Заказчик: entities/users/customer.md
+    - Биржа: 
+      - Заказ: entities/order-board/order.md
+      - Отклик: entities/order-board/response.md
 markdown_extensions:
   - toc:
       permalink: "#"
