@@ -19,6 +19,6 @@
 	- Общие страницы
 		- [Биржа](../pages/private/everyone/order-board)
 			- [Страница заказа](../pages/private/everyone/order-board/order)
-			- [Страница отклика](..pages/private/everyone/order-board/response)
+			- [Страница отклика](../pages/private/everyone/order-board/response)
 	- Личные
-		- [Мессенджер](..pages/private/personal/msgr)
+		- [Мессенджер](../pages/private/personal/msgr)
