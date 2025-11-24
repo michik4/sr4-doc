@@ -37,6 +37,8 @@ nav:
       - Заказ: entities/order-board/order.md
       - Отклик: entities/order-board/response.md
     - Оценка/Отзыв: entities/review.md
+  - Прочее: 
+    - Формы и всплывающие окна: other/forms.md
 markdown_extensions:
   - toc:
       permalink: "#"
