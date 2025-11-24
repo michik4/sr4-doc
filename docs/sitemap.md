@@ -17,8 +17,8 @@
 		- [Профиль](../pages/private/provider/profile)
 		- Поиск Заказчиков \(в разработке)
 	- Общие страницы
-		- [Биржа](../pages/private/everyone/order-board.md)
-			- [Страница заказа](../pages/private/everyone/order-board/order.md)
-			- [Страница отклика](..pages/private/everyone/order-board/response.md)
+		- [Биржа](../pages/private/everyone/order-board)
+			- [Страница заказа](../pages/private/everyone/order-board/order)
+			- [Страница отклика](..pages/private/everyone/order-board/response)
 	- Личные
-		- [Мессенджер](..pages/private/personal/msgr.md)
+		- [Мессенджер](..pages/private/personal/msgr)
