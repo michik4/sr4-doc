@@ -21,4 +21,4 @@
 			- [Страница заказа](../pages/private/everyone/order-board/order.md)
 			- [Страница отклика](..pages/private/everyone/order-board/response.md)
 	- Личные
-		- Мессенджер
+		- [Мессенджер](..pages/private/personal/msgr.md)
